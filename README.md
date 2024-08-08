@@ -15,10 +15,10 @@ By using this code, you are automating your Discord Account. This is against Dis
 - Soon to be more features.
 
 ## Source
-Why isn't this open source? Because this is made for Discord Packers and unfortunately they love to skid shit, but if you think this is a logger. Join [hooterz server](https://discord.gg/hooterz) and dm @cxcvc on Discord and I will show all proof this is safe for you to use.
+Why isn't this open source? Because this is made for Discord Packers and unfortunately they love to skid shit, but if you think this is a logger. Dm me on Discord and I will show all proof this is safe for you to use.
 
 ## Help and Support
-THIS WAS MADE BY @maneuvered ON DISCORD, If you have any issues or doubts regarding this, feel free to [contact me](https://discord.com/users/849210979404218368).
+THIS WAS MADE BY Chex, If you have any issues or doubts regarding this, feel free to [contact me](https://discord.com/users/849210979404218368).
 
 ---
 
