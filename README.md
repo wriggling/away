@@ -3,7 +3,7 @@ Fastest Afk Checker!
 
 ## Preview
 
-<video src='https://cdn.discordapp.com/attachments/853029497266503710/1271116193885065237/away_tool_1.mp4?ex=66b62ab4&is=66b4d934&hm=f2987fda733233ef72f8006219b7ff50e6d8b1cc2c23f0148a4fd4f1672a4e2d&' width=180/>
+https://cdn.discordapp.com/attachments/853029497266503710/1271116193885065237/away_tool_1.mp4?ex=66b62ab4&is=66b4d934&hm=f2987fda733233ef72f8006219b7ff50e6d8b1cc2c23f0148a4fd4f1672a4e2d&
 
 ## Disclaimer
 By using this code, you are automating your Discord Account. This is against Discord's Terms of Service and Community Guidelines. If not used properly, your account(s) might get suspended or terminated by Discord. I, the developer, is not responsible for any consequences that may arise from the use of this code. Use this software at your own risk and responsibility. Learn more about <a href="https://discord.com/terms">Discord's Terms of Service</a> and <a href="https://discord.com/guidelines">Community Guidelines</a> here.
